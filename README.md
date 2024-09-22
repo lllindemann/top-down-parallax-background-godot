@@ -24,3 +24,5 @@ Each Sprite2D Child of each ParallaxLayer in the ParallaxBackground has the foll
 
 ## Acknowledgments
 Special thanks to the artists "Kenney" who provides the game's assets: [www.kenney.nl](www.kenney.nl)
+
+Further Special thanks to Screaming Brain Studios providing a collection of free Seamless Space Backgrounds: [Collection on itch.io](https://screamingbrainstudios.itch.io/seamless-space-backgrounds)
