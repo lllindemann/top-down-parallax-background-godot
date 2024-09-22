@@ -1,4 +1,4 @@
-# 2.5 D Top Down Parallax Background 
+# 2.5-D Top Down Parallax Background 
 Parallax Background Template developed in Godot Engine 4.2.
 
 ## What is a Parallax Effect?
